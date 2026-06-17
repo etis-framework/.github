@@ -21,9 +21,9 @@ ETIS integrates software engineering, AI governance, operational trust, human ov
 
 🌐 https://etisframework.org
 
-🎓 Instructor Resources
+🎓 Instructor Resources (coming soon)
 
-🧰 Professional Toolkit
+🧰 Professional Toolkit (coming soon)
 
 🏛️ Lakeside Metropolitan University (LMU)
 
@@ -39,6 +39,17 @@ ETIS integrates software engineering, AI governance, operational trust, human ov
 - Human Oversight
 - Operational Trust
 - System Stewardship
+
+## ETIS Ecosystem
+
+ETIS is more than a book. It is an engineering ecosystem consisting of:
+
+- The ETIS Book
+- The ETIS Framework Website
+- Repository-Centered Reference Artifacts
+- Instructor Resources
+- Professional Toolkits
+- LMU/COICP Enterprise Case Studies
 
 ---
 
